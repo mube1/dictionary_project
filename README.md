@@ -8,4 +8,5 @@ I implemeted a seld adjusting tree structure to keep the word search and retreiv
 
 Here are the images when its run.
 
-![main](/dictionary_project/blob/master/dict1.png)
+![main](https://github.com/mube1/dictionary_project/blob/master/dict1.png)
+
